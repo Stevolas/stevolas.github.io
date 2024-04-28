@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/hayn-underfoot/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/hayn-underfoot/","tags":["gardenEntry"]}
 ---
 
 >[!infobox|right ]
