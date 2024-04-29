@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/barnar-dankil/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/barnar-dankil/","noteIcon":""}
 ---
 
 >[!infobox|right ]
@@ -15,7 +15,7 @@
 >##### **Basic Information**
 >| Attribute | |
 >---|---|
->| **Level** | 10 |
+>| **Level** | 12 |
 >| **Class(es)** | Cleric |
 >| **Standing** | Friendly |
 >| **Location** | Party |
