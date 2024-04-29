@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/kril/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/kril/","noteIcon":""}
 ---
 
 >[!infobox|right ]
@@ -15,7 +15,7 @@
 >##### **Basic Information**
 >| Attribute | |
 >---|---|
->| **Level** | 10 |
+>| **Level** | 12 |
 >| **Class(es)** | Fighter |
 >| **Standing** | Friendly |
 >| **Location** | Mount Franz |
