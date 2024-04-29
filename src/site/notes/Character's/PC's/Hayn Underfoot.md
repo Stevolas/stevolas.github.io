@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/hayn-underfoot/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/hayn-underfoot/","noteIcon":""}
 ---
 
 >[!infobox|right ]
@@ -15,7 +15,7 @@
 >##### **Basic Information**
 >Attribute | |
 >---|---|
->| **Level** | 10 |
+>| **Level** | 12 |
 >| **Class(es)** | Rogue,Warlock |
 >| **Standing** | Friendly |
 >| **Location** | Party |
