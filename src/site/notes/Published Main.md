@@ -1,14 +1,60 @@
-```dataview
->table without id
->	"**" + link(file.path, name) + "**" as "Name",
->	embed(Art) as "Art",
->	"**" + race + "**" as "Race",
->	"**" + class + "**" as "Class"
->FROM "Character's"
->FLATTEN choice(Condition = "Alive", "<font style=color:green>**" + Condition + "**</font>",  "<font style=color:red>" + Condition + "</font>") as condition
->where contains(location, "Party")
->sort file.name asc
+---
+{"dg-publish":true,"permalink":"/published-main/","tags":["gardenEntry"],"noteIcon":""}
+---
 
-## Quests
+
+![Bad Company.png](/img/user/Attachments/Bad%20Company.png)
+<font size="10px" style="font-family: Segoe Print" color=beige><center>**Franzictini**</center></font>
+### Table of Contents
+
+- [[Published Main#Current Party\|Current Party]]
+- [[Published Main#NPC's\|NPC's]]
+- [[Published Main#Quests\|Quests]]
+- [[Published Main#Locations\|Locations]]
+
+## Current Party
+
+>[!cards|6 dataview] 
+| Name                                                           | Race           | Class               |
+| -------------------------------------------------------------- | -------------- | ------------------- |
+| **[[Character's/PC's/Armmyr Dopplet\|Armmyr Dopplet]]**     | **Changeling** | **Ranger, Warlock** |
+| **[[Character's/PC's/Arthur Maynard\|Arthur Maynard]]**     | **Human**      | **Paladin**         |
+| **[[Character's/PC's/Barnar Dankil\|Barnar Dankil]]**       | **Dwarf**      | **Cleric**          |
+| **[[Character's/PC's/Freya Lorhalien\|Freya Lorhalien]]**   | **Eladrin**    | **Bard, Warlock**   |
+| **[[Character's/PC's/Hayn Underfoot\|Hayn Underfoot]]**     | **Halfling**   | **Rogue, Warlock**  |
+| **[[Character's/PC's/Tarin Bolirahn\|Tarin Bolirahn]]**     | **Elf**        | **Sorcerer**        |
+| **[[Character's/PC's/Velania Firanova\|Velania Firanova]]** | **Half-Elf**   | **Druid, Cleric**   |
+| **[[Character's/PC's/Zipleze Rimmore\|Zipleze Rimmore]]**   | **Gnome**      | **Artificer**       |
+
+{ .block-language-dataview}
 
 ```
+## Quests
+
+- [[Quests/Main Quests/Search for Godsbane\|Search for Godsbane]]<br>Search for the remaining fragments of Godsbane
+- [[Quests/Misc/Investigate Cult Activity in Drovic\|Investigate Cult Activity in Drovic]]<br>Investigate the cult that has been terrorizing the city
+
+{ .block-language-dataview}
+
+## Locations
+
+| Location                                         | Type      | Region       |
+| ------------------------------------------------ | --------- | ------------ |
+| [[Locations/Cities/Cape Renozo\|Cape Renozo]] | Theocracy | South-West   |
+| [[Locations/Cities/Covin\|Covin]]             | \-        | \-           |
+| [[Locations/Cities/Irridanel\|Irridanel]]     | \-        | \-           |
+| [[Locations/Cities/Anaheim\|Anaheim]]         | \-        | South-West   |
+| [[Locations/Giorna\|Giorna]]                  | \-        | \-           |
+| [[Locations/Hamlet/Boab\|Boab]]               | Isocracy  | Great Forest |
+| [[Locations/Hamlet/Nellis\|Nellis]]           | \-        | \-           |
+| [[Locations/Metropolis/Brass\|Brass]]         | Monarchy  | Unknown      |
+| [[Locations/Metropolis/Drovic\|Drovic]]       | Monarchy  | North-East   |
+| [[Locations/Rectoro\|Rectoro]]                | \-        | \-           |
+| [[Locations/Swallow\|Swallow]]                | \-        | \-           |
+| [[Locations/Villages/Kelpon\|Kelpon]]         | \-        | \-           |
+| [[Locations/Villages/Konoha\|Konoha]]         | \-        | \-           |
+| [[Locations/Villages/Vindor\|Vindor]]         | Monarchy  | South-West   |
+| [[Locations/Xorna\|Xorna]]                    | \-        | \-           |
+| [[Locations/Whitwick\|Whitwick]]              | \-        | \-           |
+
+{ .block-language-dataview}
