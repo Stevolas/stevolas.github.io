@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/khiramine-firanova/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/khiramine-firanova/","noteIcon":""}
 ---
 
 >[!infobox|right ]
