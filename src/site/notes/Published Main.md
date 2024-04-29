@@ -17,10 +17,10 @@
 ## Quests
 
 ``` dataview
-LIST WITHOUT ID
+list without id
 file.link + "<br>" + Objective 
-FROM "Quests" 
-WHERE file.name != "Quest Database" AND Tracked = true
+from "Quests" 
+where file.name != "Quest Database" and Tracked = true
 ```
 
 ## Locations
