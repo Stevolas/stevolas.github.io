@@ -25,7 +25,6 @@ WHERE contains(location, "Party")
 SORT file.name asc
 ```
 
-```
 ## Quests
 
 ``` dataview
