@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/velania-firanova/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/velania-firanova/","noteIcon":""}
 ---
 
 >[!infobox|right ]
@@ -15,7 +15,7 @@
 >##### **Basic Information**
 >| Attribute | |
 >---|---|
->| **Level** | `=this.level` |
+>| **Level** | 12 |
 >| **Class(es)** | Druid,Cleric |
 >| **Standing** | Friendly |
 >| **Location** | Party |
