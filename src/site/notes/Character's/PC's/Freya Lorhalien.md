@@ -6,14 +6,14 @@
 ># **Freya Lorhalien**
 >![Freya (2).jpg|cover h-small](/img/user/Attachments/Characters/Freya%20(2).jpg)
 >##### **Physical Information**
->| | 
+>| Attribute | | 
 >---|---|
 >| **Age** | Teenager |
 >| **Gender** | Female |
 >| **Race** | Eladrin |
 >| **Condition** | Alive |
 >##### **Basic Information**
->||
+>| Attribute | |
 >---|---|
 >| **Level** | 10 |
 >| **Class(es)** | Bard |
@@ -21,7 +21,7 @@
 >| **Location** | Party |
 >| **Player** | Don |
 >##### **Relationships**
->| |
+>| Name | Relationship |
 >---| ---|
 >| - | *-* |
 
