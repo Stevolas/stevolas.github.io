@@ -21,7 +21,7 @@
 >| **Location** | Party |
 >| **Player** | Steven |
 >##### **Relationships**
->| |
+>| Name | Relationship |
 >---| ---|
 >| [[Eran Underfoot\|Eran Underfoot]] | *Brother* |
 
@@ -30,5 +30,5 @@
 Hayn was born alongside twin [[Eran Underfoot \|Eran]] in the town of Vindor. Despite similar environments, Eran would grow up to become a well respected, small time merchant in Vindor. Dissimilarly, Hayn grew up a peddler of illegal goods, a pickpocket, and a thief. Eventually, at behest of a lord of Vindor, he alongside a few others formed a party to attend to an issue effecting the region. Eventually, this party would form into the adventuring party [[Factions/Bad Company\|Bad Company]].
 
 #### Highlights
-- God of Thieves, Mask, provided a job to retrieve an artifact called The Globe.
-- Hayn was chosen by the Matron of Ravens, providing him a touch of magic.
+- The God of Thieves, [[Character's/NPC's/Gods/Mask\|Mask]], provided a job to retrieve an artifact called The Globe.
+- Hayn was chosen by the [[Matron of Ravens\|Matron of Ravens]], providing him a touch of magic.
