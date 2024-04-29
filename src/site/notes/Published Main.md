@@ -11,7 +11,6 @@
 - [[Published Main#NPC's\|NPC's]]
 - [[Published Main#Quests\|Quests]]
 - [[Published Main#Locations\|Locations]]
-- [[Published Main#Sessions\|Sessions]]
 
 ## Current Party
 ``` dataview
