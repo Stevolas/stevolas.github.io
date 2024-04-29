@@ -6,14 +6,14 @@
 ># **Hayn Underfoot**
 >![Hayn.jpg|cover h-small](/img/user/Attachments/Characters/Hayn.jpg)
 >##### **Physical Information**
->| | 
+>| Attribute | | 
 >---|---|
 >| **Age** | Young Adult |
 >| **Gender** | Male |
 >| **Race** | Halfling |
 >| **Condition** | Alive |
 >##### **Basic Information**
->||
+>Attribute | |
 >---|---|
 >| **Level** | 10 |
 >| **Class(es)** | Rogue,Warlock |
