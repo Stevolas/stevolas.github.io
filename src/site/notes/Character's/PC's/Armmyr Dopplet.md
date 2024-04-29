@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/armmyr-dopplet/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/armmyr-dopplet/","noteIcon":""}
 ---
 
 >[!infobox|right ]
