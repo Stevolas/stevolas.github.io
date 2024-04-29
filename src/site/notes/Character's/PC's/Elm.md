@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/elm/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/elm/","noteIcon":""}
 ---
 
 >[!infobox|right ]
@@ -15,10 +15,10 @@
 >##### **Basic Information**
 >| Attribute | |
 >---|---|
->| **Level** | 10 |
+>| **Level** | 9 |
 >| **Class(es)** | Wizard |
 >| **Standing** | Friendly |
->| **Location** | Party |
+>| **Location** | Drovic |
 >| **Player** | Jonathon |
 >##### **Relationships**
 >| Name | Relationship |
