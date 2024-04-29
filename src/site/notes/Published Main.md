@@ -28,7 +28,6 @@
 
 { .block-language-dataview}
 
-```
 ## Quests
 
 - [[Quests/Main Quests/Search for Godsbane\|Search for Godsbane]]<br>Search for the remaining fragments of Godsbane
