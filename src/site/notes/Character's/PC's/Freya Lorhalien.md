@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/freya-lorhalien/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/freya-lorhalien/","noteIcon":""}
 ---
 
 >[!infobox|right ]
@@ -15,8 +15,8 @@
 >##### **Basic Information**
 >| Attribute | |
 >---|---|
->| **Level** | 10 |
->| **Class(es)** | Bard |
+>| **Level** | 12 |
+>| **Class(es)** | Bard,Warlock |
 >| **Standing** | Friendly |
 >| **Location** | Party |
 >| **Player** | Don |
