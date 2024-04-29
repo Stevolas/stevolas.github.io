@@ -16,12 +16,10 @@
 
 ## Quests
 
-``` dataview
-list without id
-file.link + "<br>" + Objective 
-from "Quests" 
-where file.name != "Quest Database" and Tracked = true
-```
+- [[Quests/Main Quests/Search for Godsbane\|Search for Godsbane]]<br>Search for the remaining fragments of Godsbane
+- [[Quests/Misc/Investigate Cult Activity in Drovic\|Investigate Cult Activity in Drovic]]<br>Investigate the cult that has been terrorizing the city
+
+{ .block-language-dataview}
 
 ## Locations
 
