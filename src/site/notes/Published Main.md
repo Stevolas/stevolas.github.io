@@ -13,6 +13,7 @@
 - [[Published Main#Locations\|Locations]]
 
 ## Current Party
+
 ``` dataview
 TABLE WITHOUT ID
 	"**" + link(file.path, name) + "**" AS "Name",
