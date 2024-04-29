@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/character-s/pc-s/tarin-bolirahn/"}
+{"dg-publish":true,"permalink":"/character-s/pc-s/tarin-bolirahn/","noteIcon":""}
 ---
 
 >[!infobox|right ]
@@ -15,7 +15,7 @@
 >##### **Basic Information**
 >| Attribute | |
 >---|---|
->| **Level** | 9 |
+>| **Level** | 12 |
 >| **Class(es)** | Sorcerer |
 >| **Standing** | Friendly |
 >| **Location** | Party |
