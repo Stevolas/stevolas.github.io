@@ -39,21 +39,21 @@
 
 | Location                                         | Type      | Region       |
 | ------------------------------------------------ | --------- | ------------ |
+| [[Locations/Cities/Anaheim\|Anaheim]]         | \-        | South-West   |
 | [[Locations/Cities/Cape Renozo\|Cape Renozo]] | Theocracy | South-West   |
 | [[Locations/Cities/Covin\|Covin]]             | \-        | \-           |
 | [[Locations/Cities/Irridanel\|Irridanel]]     | \-        | \-           |
-| [[Locations/Cities/Anaheim\|Anaheim]]         | \-        | South-West   |
 | [[Locations/Giorna\|Giorna]]                  | \-        | \-           |
 | [[Locations/Hamlet/Boab\|Boab]]               | Isocracy  | Great Forest |
 | [[Locations/Hamlet/Nellis\|Nellis]]           | \-        | \-           |
+| [[Locations/Rectoro\|Rectoro]]                | \-        | \-           |
 | [[Locations/Metropolis/Brass\|Brass]]         | Monarchy  | Unknown      |
 | [[Locations/Metropolis/Drovic\|Drovic]]       | Monarchy  | North-East   |
-| [[Locations/Rectoro\|Rectoro]]                | \-        | \-           |
 | [[Locations/Swallow\|Swallow]]                | \-        | \-           |
 | [[Locations/Villages/Kelpon\|Kelpon]]         | \-        | \-           |
 | [[Locations/Villages/Konoha\|Konoha]]         | \-        | \-           |
 | [[Locations/Villages/Vindor\|Vindor]]         | Monarchy  | South-West   |
-| [[Locations/Xorna\|Xorna]]                    | \-        | \-           |
 | [[Locations/Whitwick\|Whitwick]]              | \-        | \-           |
+| [[Locations/Xorna\|Xorna]]                    | \-        | \-           |
 
 { .block-language-dataview}
