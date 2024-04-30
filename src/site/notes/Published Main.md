@@ -41,18 +41,18 @@
 | ------------------------------------------------ | --------- | ------------ |
 | [[Locations/Cities/Anaheim\|Anaheim]]         | \-        | South-West   |
 | [[Locations/Cities/Cape Renozo\|Cape Renozo]] | Theocracy | South-West   |
-| [[Locations/Cities/Covin\|Covin]]             | \-        | \-           |
 | [[Locations/Cities/Irridanel\|Irridanel]]     | \-        | \-           |
-| [[Locations/Giorna\|Giorna]]                  | \-        | \-           |
+| [[Locations/Cities/Covin\|Covin]]             | \-        | \-           |
 | [[Locations/Hamlet/Boab\|Boab]]               | Isocracy  | Great Forest |
 | [[Locations/Hamlet/Nellis\|Nellis]]           | \-        | \-           |
-| [[Locations/Rectoro\|Rectoro]]                | \-        | \-           |
+| [[Locations/Giorna\|Giorna]]                  | \-        | \-           |
 | [[Locations/Metropolis/Brass\|Brass]]         | Monarchy  | Unknown      |
 | [[Locations/Metropolis/Drovic\|Drovic]]       | Monarchy  | North-East   |
-| [[Locations/Swallow\|Swallow]]                | \-        | \-           |
 | [[Locations/Villages/Kelpon\|Kelpon]]         | \-        | \-           |
 | [[Locations/Villages/Konoha\|Konoha]]         | \-        | \-           |
 | [[Locations/Villages/Vindor\|Vindor]]         | Monarchy  | South-West   |
+| [[Locations/Rectoro\|Rectoro]]                | \-        | \-           |
+| [[Locations/Swallow\|Swallow]]                | \-        | \-           |
 | [[Locations/Whitwick\|Whitwick]]              | \-        | \-           |
 | [[Locations/Xorna\|Xorna]]                    | \-        | \-           |
 
