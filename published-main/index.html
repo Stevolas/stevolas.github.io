@@ -1332,7 +1332,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-04-30T23:15:13.069Z';
+        const searchIndexDate = '2024-04-30T23:23:39.140Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -1344,9 +1344,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-04-30T23:15:13.069Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-04-30T23:23:39.140Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-04-30T23:15:13.069Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-04-30T23:23:39.140Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -1652,17 +1652,12 @@
 <td>South-West</td>
 </tr>
 <tr>
-<td><a class="internal-link" target="" data-note-icon="" href="/locations/cities/covin/">Covin</a></td>
-<td>-</td>
-<td>-</td>
-</tr>
-<tr>
 <td><a class="internal-link" target="" data-note-icon="" href="/locations/cities/irridanel/">Irridanel</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
 <tr>
-<td><a class="internal-link" target="" data-note-icon="" href="/locations/giorna/">Giorna</a></td>
+<td><a class="internal-link" target="" data-note-icon="" href="/locations/cities/covin/">Covin</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -1677,7 +1672,7 @@
 <td>-</td>
 </tr>
 <tr>
-<td><a class="internal-link" target="" data-note-icon="" href="/locations/rectoro/">Rectoro</a></td>
+<td><a class="internal-link" target="" data-note-icon="" href="/locations/giorna/">Giorna</a></td>
 <td>-</td>
 <td>-</td>
 </tr>
@@ -1690,11 +1685,6 @@
 <td><a class="internal-link" target="" data-note-icon="" href="/locations/metropolis/drovic/">Drovic</a></td>
 <td>Monarchy</td>
 <td>North-East</td>
-</tr>
-<tr>
-<td><a class="internal-link" target="" data-note-icon="" href="/locations/swallow/">Swallow</a></td>
-<td>-</td>
-<td>-</td>
 </tr>
 <tr>
 <td><a class="internal-link" target="" data-note-icon="" href="/locations/villages/kelpon/">Kelpon</a></td>
@@ -1710,6 +1700,16 @@
 <td><a class="internal-link" target="" data-note-icon="" href="/locations/villages/vindor/">Vindor</a></td>
 <td>Monarchy</td>
 <td>South-West</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/locations/rectoro/">Rectoro</a></td>
+<td>-</td>
+<td>-</td>
+</tr>
+<tr>
+<td><a class="internal-link" target="" data-note-icon="" href="/locations/swallow/">Swallow</a></td>
+<td>-</td>
+<td>-</td>
 </tr>
 <tr>
 <td><a class="internal-link" target="" data-note-icon="" href="/locations/whitwick/">Whitwick</a></td>
