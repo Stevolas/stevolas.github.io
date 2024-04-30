@@ -1,7 +1,7 @@
 [
 {
 		"title": "Atlas",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/atlas/",
 		"content": "[!infobox|right ]\nAtlas\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nPhysical Information\n| |\n---|---|\n| Age | Young Adult |\n| Gender | Female |\n| Race | =this.race |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Friendly |\n| Location | Boab |\nRelationships\n| |\n---| ---|\n| - | - |\n\nAtlas\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -9,7 +9,7 @@
 
 {
 		"title": "Desmond",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/desmond/",
 		"content": "[!infobox|right ]\nDesmond\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nPhysical Information\n| |\n---|---|\n| Age | =this.age |\n| Gender | =this.gender |\n| Race | =this.race |\n| Condition | =this.condition |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | =this.standing |\n| Location | =this.location |\nRelationships\n| |\n---| ---|\n| - | - |\n\nDesmond\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -17,7 +17,7 @@
 
 {
 		"title": "Elric",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/elric/",
 		"content": "[!infobox|right ]\nElric\n\nPhysical Information\n| |\n---|---|\n| Age | Teenager |\n| Gender | Male |\n| Race | Tiefling |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | 3 |\n| Class(es) | Warlock |\n| Standing | Friendly |\n| Location | Boab |\nRelationships\n| |\n---| ---|\n| - | - |\n\nElric\nHistory\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a> first came across Elric on their way to the city of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/brass/\">Brass</a>. Elric was being attacked by creatures while he attempted to retrieve a bag he had hidden in the area. After defeating them, Elric gave the party assistance in entering the city, and getting them to someone who may know information on <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Dawnbringer</a>, as-well as the piece of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Godsbane</a>.\nAt one point, Elric brought the party back to his home, and they met his mother - whom was suffering from a genetic disease. Arthur proceeded to heal her of her affliction with his Lay on Hands, and they mentioned the possibility of helping Elric escape the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Elemental Plane of Fire</a> on their way out.\nHighlights",
 		"tags": [ "note"]
@@ -25,7 +25,7 @@
 
 {
 		"title": "Bento",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/enemies/bento/",
 		"content": "[!infobox|right ]\nBento\n\nPhysical Information\n| |\n---|---|\n| Age | Unknown |\n| Gender | Male |\n| Race | Demon |\n| Condition | Dead |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Hostile |\n| Location | Mount Franz |\nRelationships\n| |\n---| ---|\n| <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Leo Dentelli</a> | Subordinate (former) |\n\nBento\nHistory\nBento was a demon commanded by Demon Lord <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/orcus/\">Orcus</a>. He - along with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/leo-denteli/\">Leo Denteli</a> - attempted to stop <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a> on their quest to find <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Godsbane</a>, but was eventually slain on the peak of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Mount Franz</a> during their fight to save <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/irridanel/\">Irridanel</a> from catastrophe.\nHighlights",
 		"tags": [ "note"]
@@ -33,7 +33,7 @@
 
 {
 		"title": "Eve",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/enemies/eve/",
 		"content": "[!infobox|right ]\nEve\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nPhysical Information\n| |\n---|---|\n| Age | Unknown |\n| Gender | Female |\n| Race | Demon |\n| Condition | Dead |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Hostile |\n| Location | Drovic |\nRelationships\n| |\n---| ---|\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/orcus/\">Orcus</a> | Master |\n\nEve\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -41,7 +41,7 @@
 
 {
 		"title": "Gert",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/enemies/gert/",
 		"content": "[!infobox|right ]\nGert\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Male |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | Fighter |\n| Standing | Hostile |\n| Location | Drovic |\nRelationships\n| |\n---| ---|\n| Amelia | Mother |\n| Bert Sr. | Father |\n| Bert Jr. | Brother |\n\nGert\nHistory\nThe party encountered Gert outside of Drovic, after he and a group of men attempted to kill the &quot;merchant&quot; Antony, whom was attempting to scam the party with bad goods. Gert had bought an &quot;enhancement&quot; potion from him, which did not work in the bedroom. A letter was found on him that mentioned that <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Asmodeous</a>'s (the king of hell and god of indulgence) mount Twilight Phoenix is real.\nGert was last seen running back into Drovic, after his defeat by the party.\nHighlights",
 		"tags": [ "note"]
@@ -49,7 +49,7 @@
 
 {
 		"title": "Kent",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/enemies/kent/",
 		"content": "[!infobox|right ]\nKent\n\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Male |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | Fighter |\n| Standing | Hostile |\n| Location | Drovic |\nRelationships\n| |\n---| ---|\n| - | - |\n\nKent\nHistory\nKent, the Red Skull Bounty Hunter, was a former associate of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/hayn-underfoot/\">Hayn Underfoot</a>. Hayn's brother <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Eran Underfoot</a> died after Hayn gave Kent information on some valuables in Eran's possession.\nHe later reappeared in Drovic, appearing as a unknown bounty hunter ambushing Hayn and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/arthur-maynard/\">Arthur Maynard</a> after their search for a hidden smuggled object. During the ensuing fight, Kent took a civilian hostage before falling unconcious from an airborne attack from Hayn. After finding out of Kent's identity, he and Arthur traveled outside of Drovic, planning to interrogate him at their fort just outside the city.\nHighlights\n\nKilled <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/hayn-underfoot/\">Hayn Underfoot</a>'s <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#eran\">Eran</a>.\nKnocked out in Drovic by Hayn.",
 		"tags": [ "note"]
@@ -57,7 +57,7 @@
 
 {
 		"title": "Orcus",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/enemies/orcus/",
 		"content": "[!infobox|right ]\nOrcus\n\nPhysical Information\n| |\n---|---|\n| Age | Ancient |\n| Gender | Male |\n| Race | Demon |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Hostile |\n| Location | =this.location |\nRelationships\n| |\n---| ---|\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/bento/\">Bento</a> | Subordinate |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/leo-denteli/\">Leo Denteli</a> | Subordinate (former) |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/eve/\">Eve</a> | Subordinate |\n\nOrcus\nHistory\nThe Demon Lord Orcus is a demon that threatens Franzictini, and is currently being sought after by <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a>. Little is known about him, but he once employed the demon <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/bento/\">Bento</a>, as-well as subjugated the undead monk <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/leo-denteli/\">Leo Denteli</a>. The party seeks the fragments of the legendary god slaying weapon <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Godsbane</a>, in hope of defeating him.\nHighlights",
 		"tags": [ "note"]
@@ -65,7 +65,7 @@
 
 {
 		"title": "Epiphren Ramsey",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/epiphren-ramsey/",
 		"content": "[!infobox|right ]\nEpiphren Ramsey\n\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Male |\n| Race | Half-Orc |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | 15 |\n| Class(es) | Paladin,Barbarian |\n| Standing | Friendly |\n| Location | Boab |\nRelationships\n| |\n---| ---|\n| - | - |\n\nEpiphren Ramsey\nHistory\nThe party first met Epiphren in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/villages/vindor/\">Vindor</a>, where the majority of the party first came together. There, he helped the party until a large force of Orc's began pillaging from the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Wild Lands</a>, to the north; Here, he split from the party, his fate unknown until they met with him again.\nEpiphren now primarily stays in the small community of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/hamlet/boab/\">Boab</a>, where he assists the community using his unusual strength.\nHighlights",
 		"tags": [ "note"]
@@ -73,7 +73,7 @@
 
 {
 		"title": "Artagan",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/gods/artagan/",
 		"content": "[!infobox|right ]\nArtagan\n\nPhysical Information\n| |\n---|---|\n| Age | Ancient |\n| Gender | Male |\n| Race | Satyr |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Neutral |\n| Location | Unknown |\nRelationships\n| |\n---| ---|\n| - | - |\n\nArtagan\nHistory\nArtagan was the patron of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/tarin-bolirahn/\">Tarin Bolirahn</a>. After Tarin refused to give up the fragment of Godsbane to him, Artagan severed their pact.\nHighlights",
 		"tags": [ "note"]
@@ -81,7 +81,7 @@
 
 {
 		"title": "Cyric",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/gods/cyric/",
 		"content": "[!infobox|right ]\nCyric\n\nPhysical Information\n| |\n---|---|\n| Age | Ancient |\n| Gender | Male |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Hostile |\n| Location | Unknown |\nRelationships\n| |\n---| ---|\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/gods/mask/\">Mask</a> | Adversary |\n\nCyric\nHistory\nThe God Cyric, once a human man, is the current patron of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/armmyr-dopplet/\">Armmyr Dopplet</a>. He has a hostile relationship with the God Mask, whom he had used in the form of a weapon known as <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Godsbane</a>.\nHighlights",
 		"tags": [ "note"]
@@ -89,7 +89,7 @@
 
 {
 		"title": "Mask",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/gods/mask/",
 		"content": "[!infobox|right ]\nMask\n\nPhysical Information\n| |\n---|---|\n| Age | Ancient |\n| Gender | Male |\n| Race | =this.race |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Neutral |\n| Location | Unknown |\nRelationships\n| |\n---| ---|\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/gods/cyric/\">Cyric</a> | Adversary |\n\nMask\nHistory\nMask appeared before <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Hayn</a> as a small halfling man during their visit to <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/anaheim/\">Anaheim</a>, after knowledge of his brother <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Eran</a>'s appearance in the city. Mask had enlisted the party to break into a vault, belonging to <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Vidorant</a>, and retrieve a relic known as <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The World</a> - a palm sized globe with the ability to temporarily control the flow of time. After successfully stealing the globe, the party attempted to sneak out of the city when he reappeared to the party. He said that he would allow the party to keep it, but that they must not allow it to get into the hands of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/gods/cyric/\">Cyric</a>.\nHighlights",
 		"tags": [ "note"]
@@ -97,7 +97,7 @@
 
 {
 		"title": "Raven Queen",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/gods/raven-queen/",
 		"content": "[!infobox|right ]\nRaven Queen\n\nPhysical Information\n| |\n---|---|\n| Age | Ancient |\n| Gender | Female |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Neutral |\n| Location | Unknown |\nRelationships\n| |\n---| ---|\n| - | - |\n\nRaven Queen\nHistory\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Hayn</a> was granted powers by the Raven Queen in exchange for him returning souls to her. During the parties trip to <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a> for the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">King's Ball</a>, Hayn was instructed to go to the top of the largest archer tower and release 3 souls he had collected to her. In exchange, he was granted the ability to summon a reaper once a day.\nHighlights\n\nGranted <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Hayn</a> a boon, allowing him to summon a reaper once a day.",
 		"tags": [ "note"]
@@ -105,7 +105,7 @@
 
 {
 		"title": "Irygl",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/irygl/",
 		"content": "[!infobox|right ]\nIrygl\n\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Female |\n| Race | Satyr |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | 10 |\n| Class(es) | Druid |\n| Standing | Friendly |\n| Location | Boab |\nRelationships\n| |\n---| ---|\n| - | - |\n\nIrygl\nHistory\nThe party first encountered Irygl when searching for her in search of a cure for the plague surrounding Vindor. Eventually they learn that the pestilence was caused by <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/orcus/\">Orcus</a>, and to defeat him they must rebuild the weapon known as <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Godsbane</a>. She would help the party on their journey, until eventually settling in the small forest village of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/hamlet/boab/\">Boab</a>.\nHighlights",
 		"tags": [ "note"]
@@ -113,7 +113,7 @@
 
 {
 		"title": "Korbin Dopplet",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/korbin-dopplet/",
 		"content": "[!infobox|right ]\nKorbin Dopplet\n\nPhysical Information\n| |\n---|---|\n| Age | Young Adult |\n| Gender | Male |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | 15 |\n| Class(es) | Fighter |\n| Standing | Friendly |\n| Location | Irridanel |\nRelationships\n| |\n---| ---|\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/armmyr-dopplet/\">Armmyr Dopplet</a> | Brother |\n\nKorbin Dopplet\nHistory\nKorbin is the brother of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/armmyr-dopplet/\">Armmyr Dopplet</a>. At some point, Korbin managed to get bit by a werewolf - contracting lycanthropy. The party managed to cure him of his affliction. The party met up with Korbin again at <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/irridanel/\">Irridanel</a>, during the crisis at Mount Franz and subsequent battle with <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Inchcomb</a>. Korbin is now an impromptu leader of Irridanel.\nHighlights",
 		"tags": [ "note"]
@@ -121,7 +121,7 @@
 
 {
 		"title": "Leo Denteli",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/leo-denteli/",
 		"content": "[!infobox|right ]\nLeo Denteli\n\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Male |\n| Race | Half-Elf |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | 7 |\n| Class(es) | Monk |\n| Standing | Friendly |\n| Location | Boab |\nRelationships\n| |\n---| ---|\n| - | - |\n\nLeo Denteli\nHistory\nLittle is known of Leo's prior life before encountering <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a>. It is known that Leo went into service with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/orcus/\">Orcus</a> after being promised his wife - whom had previously died. After being defeated by Bad Company, Orcus resurrected him by implanting a horn in his head; this horn would later removed by <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/kril/\">Kril</a> during the parties fight with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/bento/\">Bento</a>. Here, he joined the party to help with the search of Dawnbringer and the fragment of Godsbane.\nHighlights\n\nCaused the disappearance of the village of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/hamlet/boab/\">Boab</a>, home of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/tarin-bolirahn/\">Tarin Bolirahn</a> and partner <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/atlas/\">Atlas</a>.\nHorn of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/orcus/\">Orcus</a> pulled from his head by <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/kril/\">Kril</a> during <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a>'s fight with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/bento/\">Bento</a>.",
 		"tags": [ "note"]
@@ -129,7 +129,7 @@
 
 {
 		"title": "Miscellaneous Characters",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/miscellaneous-characters/",
 		"content": "Relationships\n\nEran Underfoot, brother of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/hayn-underfoot/\">Hayn Underfoot</a> - Killed by <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/kent/\">Kent</a> prior to the start of the campaign.\n\nEnemies\n\nIdrisir, a grand wizard who resided in a tower in the city of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/brass/\">Brass</a>. Kept a <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#boab-unicorn\">Unicorn</a> captive, which the party freed. The party broke into his tower, ultimately killing him on their way back out of the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Elemental Plane of Fire</a>.\n\nKan Regz, a hobgoblin serving <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bane</a>, God of Tyranny. Killed by the party in the underdark under <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/covin/\">Covin</a>. Given reward by <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#redowith\">Lord Redowith</a>.\n\nShopkeeper's\n\nAntony Castillo, hispanic-looking &quot;shopkeeper&quot; who pretended to have useful goods outside Drovic. Caused a fight with some off-duty guards, including <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#gert\">Gert</a>, whom he sold a fake boner potion.\n\nAndor Castillo, hispanic-looking <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#antony\">Antony</a>'s brother. Bard of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/political/king-drovic-iv/\">King Drovic IV</a>. Met during the King's Ball, and subsequently rescued after he had been taken.\n\nGuards\n\nGert, guard who attacked the party outside of Drovic.\n\nPolitical\n\nLord Redowith, a lord of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/covin/\">Covin</a>. Rewarded the party with invitations to the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">King's Ball</a> in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a> after they defeated <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#kan-regz\">Kan Regz</a>, a local hobgoblin leader..\n\nOther\n\nRemirez Castillo, hispanic-looking, father of both <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#antony\">Antony</a> and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#andor\">Andor</a>; part of the crew that created the Manawar Armada, the large airship that patrols around <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>. Worked alongside it's inventor, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#hominom\">Hominom</a>^Remirez\nHominom Dryadalis, inventor of the Manawar Armada, worked alongside <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#remirez\">Remirez</a>. Banished from Drovic after refusing to cease experiments. Kept a journal, titled: &quot;Divinity - The Original Sin&quot;.\nA unicorn, freed by the party on their way out of the city of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/brass/\">Brass</a>. Held captive by a wizard, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#idrisir\">Idrisir</a>. Afterwards, this unicorn decided to reside in the Great Forests surrounding <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/hamlet/boab/\">Boab</a>, acting as it's protector.",
 		"tags": [ "note"]
@@ -137,7 +137,7 @@
 
 {
 		"title": "Morvello",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/morvello/",
 		"content": "[!infobox|right ]\nMorvello\n\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Male |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | Paladin |\n| Standing | Friendly |\n| Location | Drovic |\nRelationships\n| |\n---| ---|\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/arthur-maynard/\">Arthur Maynard</a> | Adopted Son |\n\nMorvello\nHistory\nMorvello was first encountered during the parties journey to <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/cape-renozo/\">Cape Renozo</a>. It would eventually be known that he had contracted lycanthropy, and had been leaving the city during full moons to avoid killing innocents.\nHighlights",
 		"tags": [ "note"]
@@ -145,7 +145,7 @@
 
 {
 		"title": "Ashai",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/political/ashai/",
 		"content": "[!infobox|right ]\nAshai\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nPhysical Information\n| |\n---|---|\n| Age | Unknown |\n| Gender | Female |\n| Race | Human |\n| Condition | Dead |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Hostile |\n| Location | Drovic |\nRelationships\n| |\n---| ---|\n| - | - |\n\nAshai\nHistory\nLady Gwena was the right hand and court mage of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/political/king-drovic-iv/\">King Drovic IV</a>, King of Drovic. During the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">King's Ball</a> in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>, the party noticed a coloration of her eyes and face, and she teleported away during a sudden fight from the cult.\nThe party later encountered her again in <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">the sewer</a>, as her real form - Ashai, daughter of the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Twilight Phoenix</a>. The party defeated her in their fight in the sewers.\nHighlights",
 		"tags": [ "note"]
@@ -153,7 +153,7 @@
 
 {
 		"title": "King Drovic IV",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/political/king-drovic-iv/",
 		"content": "[!infobox|right ]\nKing Drovic IV\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nPhysical Information\n| |\n---|---|\n| Age | =this.age |\n| Gender | =this.gender |\n| Race | Human |\n| Condition | =this.condition |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | =this.standing |\n| Location | Drovic |\nRelationships\n| |\n---| ---|\n| - | - |\n\nKing Drovic IV\nHistory\nThe party first encountered King Drovic IV during the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">King's Ball</a>, after being invited by <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/miscellaneous-characters/#redowith\">Lord Redowith</a>.\nHighlights",
 		"tags": [ "note"]
@@ -161,7 +161,7 @@
 
 {
 		"title": "Craig",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/shopkeepers/craig/",
 		"content": "[!infobox|right ]\nCraig\n\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Male |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Friendly |\n| Location | Unknown |\n| Shop | Traveling Merchant |\nRelationships\n| |\n---| ---|\n| - | - |\n\nCraig\nHistory\nCraig is a traveling merchant that <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a> occasionally stumble into.\nStumbled across Craig again outside Covin on the parties way to Drovic. He sold the party many goods, including a sword for Hayn, shield for Arthur, goggles for Zipleze, cloak for Armmyr, armour of weightlessness for Freya, a puzzler's ring for Tarin, and some extra potions for the party.\nHighlights",
 		"tags": [ "note"]
@@ -169,7 +169,7 @@
 
 {
 		"title": "Draenol",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/shopkeepers/draenol/",
 		"content": "[!infobox|right ]\nDraenol\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Male |\n| Race | Dwarf |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Friendly |\n| Location | Covin |\nRelationships\n| |\n---| ---|\n| - | - |\n\nDraenol\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -177,7 +177,7 @@
 
 {
 		"title": "Faith Alchey",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/shopkeepers/faith-alchey/",
 		"content": "[!infobox|right ]\nFaith Alchey\n\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Female |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Friendly |\n| Location | Drovic |\n| Shop | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/shops/drovic/alchey-s-alchemicals/\">Alchey's Alchemicals</a> |\nRelationships\n| |\n---| ---|\n| - | - |\n\nFaith Alchey\nHistory\nFaith Alcy runs the alchemical shop <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Alcy's Alchemicals</a>, located in the city of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>. The party encountered her on their trip to attend the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">King's Ball</a>. She sold the party a few potions, namely a couple potions of animal speaking, greater healing potions, and speed potions. Before the party left, she mentioned to <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Arthur</a> that <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Fish Folk</a> took over the docks, where she would normally obtain clam tongue - an ingredient needed for a potion of giant size.\nHighlights",
 		"tags": [ "note"]
@@ -185,7 +185,7 @@
 
 {
 		"title": "Gilmore",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/shopkeepers/gilmore/",
 		"content": "[!infobox|right ]\nGilmore\n\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Male |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Friendly |\n| Location | Anaheim |\nRelationships\n| |\n---| ---|\n| - | - |\n\nGilmore\nHistory\nGilmore is an eccentric shopkeeper who specializes in the trade of magical items. He has helped <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a> numerous times, once hiding the group in his basement at his shop after a run-in with the law.\nHighlights",
 		"tags": [ "note"]
@@ -193,7 +193,7 @@
 
 {
 		"title": "Mikael",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/npc-s/shopkeepers/mikael/",
 		"content": "[!infobox|right ]\nMikael\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nPhysical Information\n| |\n---|---|\n| Age | Adult |\n| Gender | Male |\n| Race | Human |\n| Condition | Alive |\nBasic Information\n||\n---|---|\n| Level | =this.level |\n| Class(es) | =this.class |\n| Standing | Friendly |\n| Location | Covin |\nRelationships\n| |\n---| ---|\n| - | - |\n\nMikael\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -201,7 +201,7 @@
 
 {
 		"title": "Armmyr Dopplet",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/armmyr-dopplet/",
 		"content": "[!infobox|right ]\nArmmyr Dopplet\n\nPhysical Information\n\nAttribute\n\nAge\nYoung Adult\n\nGender\nMale\n\nRace\nChangeling\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n10\n\nClass(es)\nRanger,Warlock\n\nStanding\nFriendly\n\nLocation\nParty\n\nPlayer\nEli\n\nRelationships\n\nName\nRelationship\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/korbin-dopplet/\">Korbin Dopplet</a>\nBrother\n\nArmmyr Dopplet\nHistory\nHighlights\n\nAttacked by Bento and Leo after leaving the party, having been dumped in the ocean.\nFound again by the party in the Underdark, under the city of Covin, promptly rejoining the group.",
 		"tags": [ "note"]
@@ -209,7 +209,7 @@
 
 {
 		"title": "Arthur Maynard",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/arthur-maynard/",
 		"content": "[!infobox|right ]\nArthur Maynard\n\nPhysical Information\n\nAttribute\n\nAge\nYoung Adult\n\nGender\nMale\n\nRace\nHuman\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n12\n\nClass(es)\nPaladin\n\nStanding\nFriendly\n\nLocation\nParty\n\nPlayer\nNick\n\nRelationships\n\nName\nRelationship\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/morvello/\">Morvello</a>\nAdopted Father\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Abigail Maynard</a>\nBirth Mother\n\nArthur Maynard\nHistory\nArthur was born to <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Abigail Maynard</a>. During an attack, his future adopted father <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/morvello/\">Morvello</a> found them. After her death, Morvello took Arthur under the tutelage of himself and the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Paladin Order</a> of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/cape-renozo/\">Cape Renozo</a>. Taking on an Oath of Devotion under the god <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Heironeous</a>, he would eventually make his way to <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/villages/vindor/\">Vindor</a> and join up with a group of adventurers, later becoming known as <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a>. He was killed in a fight against <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Inchcomb</a> before being brought back to life via <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/barnar-dankil/\">Barnar Dankil</a>'s revivify spell, but in the process lost an eye and had the side of his face scarred.\nHighlights\n\nFought his mother, whom turned into a giant snake due to a curse, during her attack on <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/cape-renozo/\">Cape Renozo</a>. Subsequently ended <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/morvello/\">Morvello</a>'s curse that was cast on him from his mother.\nAbandoned his oath under <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Heironeous</a>, finding new purpose with an Oath of Redemption under the god <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Sarenrae</a>.\nLost an eye in the fight against <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Inchcomb</a>.",
 		"tags": [ "note"]
@@ -217,7 +217,7 @@
 
 {
 		"title": "Barnar Dankil",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/barnar-dankil/",
 		"content": "[!infobox|right ]\nBarnar Dankil\n\nPhysical Information\n\nAttribute\n\nAge\nYoung Adult\n\nGender\nMale\n\nRace\nDwarf\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n12\n\nClass(es)\nCleric\n\nStanding\nFriendly\n\nLocation\nParty\n\nPlayer\nJesse\n\nRelationships\n\nName\nRelationship\n\n-\n-\n\nBarnar Dankil\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -225,7 +225,7 @@
 
 {
 		"title": "Elm",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/elm/",
 		"content": "[!infobox|right ]\nElm\n\nPhysical Information\n\nAttribute\n\nAge\nTeenager\n\nGender\nMale\n\nRace\nElf\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n9\n\nClass(es)\nWizard\n\nStanding\nFriendly\n\nLocation\nDrovic\n\nPlayer\nJonathon\n\nRelationships\n\nName\nRelationship\n\n-\n-\n\nElm\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -233,7 +233,7 @@
 
 {
 		"title": "Freya Lorhalien",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/freya-lorhalien/",
 		"content": "[!infobox|right ]\nFreya Lorhalien\n\nPhysical Information\n\nAttribute\n\nAge\nTeenager\n\nGender\nFemale\n\nRace\nEladrin\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n12\n\nClass(es)\nBard,Warlock\n\nStanding\nFriendly\n\nLocation\nParty\n\nPlayer\nDon\n\nRelationships\n\nName\nRelationship\n\n-\n-\n\nFreya Lorhalien\nHistory\nBad Company first stumbled across Freya at <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Spire</a>, located in the north-east of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Franzictini</a>. Cowering after being shunted through a portal by her parents, the party brought her along with them - hoping to get her back to the Fey and back home. Eventually the party would have to travel through the Fey, where they found her village burnt to the ground. After an encounter with (forgot), she gained the ability from a powerful Ent, which allows her to plant seeds in various dimensions; These seeds would allow for travel between the dimensions.\nThe party eventually split when half jumped into the portal on top of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Mount Franz</a>, which led to the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Elemental Plane of Fire</a>. She would remain with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/zipleze-rimmore/\">Zipleze Rimmore</a> in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/irridanel/\">Irridanel</a>, where the two would disagree on the feasibility of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Inchcomb</a>'s idea of transferring his mind to a robotic body. After Inchcomb turned evil and effectively destroyed Irridanel - in the process slaughtering many innocents - Freya would loathe Zipleze for what he helped cause.\nHighlights\n\nKilled by a bugbear during a fight in the underdark under Covin, and subsequently resurrected by Barnar.",
 		"tags": [ "note"]
@@ -241,7 +241,7 @@
 
 {
 		"title": "Hayn Underfoot",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/hayn-underfoot/",
 		"content": "[!infobox|right ]\nHayn Underfoot\n\nPhysical Information\n\nAttribute\n\nAge\nYoung Adult\n\nGender\nMale\n\nRace\nHalfling\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n12\n\nClass(es)\nRogue,Warlock\n\nStanding\nFriendly\n\nLocation\nParty\n\nPlayer\nSteven\n\nRelationships\n\nName\nRelationship\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Eran Underfoot</a>\nBrother\n\nHayn Underfoot\nHistory\nHayn was born alongside twin <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Eran</a> in the town of Vindor. Despite similar environments, Eran would grow up to become a well respected, small time merchant in Vindor. Dissimilarly, Hayn grew up a peddler of illegal goods, a pickpocket, and a thief. Eventually, at behest of a lord of Vindor, he alongside a few others formed a party to attend to an issue effecting the region. Eventually, this party would form into the adventuring party <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a>.\nHighlights\n\nThe God of Thieves, <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/gods/mask/\">Mask</a>, provided a job to retrieve an artifact called The Globe.\nHayn was chosen by the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Matron of Ravens</a>, providing him a touch of magic.",
 		"tags": [ "note"]
@@ -249,7 +249,7 @@
 
 {
 		"title": "Khiramine Firanova",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/khiramine-firanova/",
 		"content": "[!infobox|right ]\nKhiramine Firanova\n\nPhysical Information\n\nAttribute\n\nAge\nYoung Adult\n\nGender\nMale\n\nRace\nHalf-Elf\n\nCondition\nPresumed Dead\n\nBasic Information\n\nAttribute\n\nLevel\n6\n\nClass(es)\nDruid,Monk\n\nStanding\nFriendly\n\nLocation\nUnknown\n\nPlayer\nNathan\n\nRelationships\n\nName\nRelationship\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/velania-firanova/\">Velania Firanova</a>\nSister\n\nKhiramine Firanova\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -257,7 +257,7 @@
 
 {
 		"title": "Kril",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/kril/",
 		"content": "[!infobox|right ]\nKril\n\nPhysical Information\n\nAttribute\n\nAge\nAdult\n\nGender\nMale\n\nRace\nFirbolg\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n12\n\nClass(es)\nFighter\n\nStanding\nFriendly\n\nLocation\nMount Franz\n\nPlayer\nBrophey\n\nRelationships\n\nName\nRelationship\n\n-\n-\n\nKril\nHistory\nLittle is known on Kril, except that he eventually found shelter inside the vast tunnel system in <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Mount Franz</a>. The party, <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a>, would eventually stumble upon him on their trek up the mountain in search of <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/bento/\">Bento</a> and <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/leo-denteli/\">Leo Denteli</a>. Having been injured by Leo on their way up the mountain, he agreed to help the party up the mountain, and escorted them through the tunnels and to the peak. There, they fought Bento and Leo, whereupon he left the party, closing a portal to the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Elemental Plane of Fire</a> as the rest of them went inside in search of the sword <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Dawnbringer</a> and a fragment of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Godsbane</a>.\nHighlights\n\nRipped <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/enemies/orcus/\">Orcus</a>'s horn from Leo's head, freeing him of his enthrallment.\nStayed behind to close the portal into the Elemental Plane of Fire.",
 		"tags": [ "note"]
@@ -265,7 +265,7 @@
 
 {
 		"title": "Tarin Bolirahn",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/tarin-bolirahn/",
 		"content": "[!infobox|right ]\nTarin Bolirahn\n\nPhysical Information\n\nAttribute\n\nAge\nYoung Adult\n\nGender\nMale\n\nRace\nElf\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n12\n\nClass(es)\nSorcerer\n\nStanding\nFriendly\n\nLocation\nParty\n\nPlayer\nJonathon\n\nRelationships\n\nName\nRelationship\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/atlas/\">Atlas</a>\nWife\n\nTarin Bolirahn\nHistory\nTarin Bolirahn met with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/armmyr-dopplet/\">Armmyr Dopplet</a> on the road to Vindor, in search of answers about the disappearance of his hometown - <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/hamlet/boab/\">Boab</a> - as-well as a search for his partner <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/atlas/\">Atlas</a>. Alongside Armmyr, he and a few others would form an adventuring party - that would later be known as <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a> - to help with a plague effecting Vindor. He formed an adversarial relationship with <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/leo-denteli/\">Leo Denteli</a>, whom was the cause of Boab's disappearance, before making peace with him after the revelation of his enthrallment.\nHighlights",
 		"tags": [ "note"]
@@ -273,7 +273,7 @@
 
 {
 		"title": "Velania Firanova",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/velania-firanova/",
 		"content": "[!infobox|right ]\nVelania Firanova\n\nPhysical Information\n\nAttribute\n\nAge\nYoung Adult\n\nGender\nFemale\n\nRace\nHalf-Elf\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n12\n\nClass(es)\nDruid,Cleric\n\nStanding\nFriendly\n\nLocation\nParty\n\nPlayer\nNathan\n\nRelationships\n\nName\nRelationship\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/khiramine-firanova/\">Khiramine Firanova</a>\nBrother\n\nVelania Firanova\nHistory\nVelania - alongside her brother <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/khiramine-firanova/\">Khiramine</a> - grew up in the city of Menta, bordering the northern-most <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Great Forest</a>. Their father belonged to <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">The Council</a> - the local government responsible for the safety of it's people and keeper's of information. She stumbled across the party, not yet known as <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Bad Company</a>, after Khiramine had been transported away during the parties fight with <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Giorno</a>.\nSometime later, during a trip to Menta, the party was banished from returning and subsequently pursued by Menta troops.\nHighlights",
 		"tags": [ "note"]
@@ -281,7 +281,7 @@
 
 {
 		"title": "Zipleze Rimmore",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/character-s/pc-s/zipleze-rimmore/",
 		"content": "[!infobox|right ]\nZipleze Rimmore\n\nPhysical Information\n\nAttribute\n\nAge\nAdult\n\nGender\nMale\n\nRace\nGnome\n\nCondition\nAlive\n\nBasic Information\n\nAttribute\n\nLevel\n12\n\nClass(es)\nArtificer\n\nStanding\nFriendly\n\nLocation\nParty\n\nPlayer\nBrandon\n\nRelationships\n\nName\nRelationship\n\n-\n-\n\nZipleze Rimmore\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -289,7 +289,7 @@
 
 {
 		"title": "Anaheim",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/cities/anaheim/",
 		"content": "[!infobox|right ]\nAnaheim\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | Neutral |\n| Population | City |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | South-West |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nAnaheim\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -297,7 +297,7 @@
 
 {
 		"title": "Cape Renozo",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/cities/cape-renozo/",
 		"content": "[!infobox|right ]\nCape Renozo\n\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | Theocracy |\n| Ruler | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/morvello/\">Morvello</a> |\n| Party Reputation | Friendly |\n| Population | City |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | South-West |\nNotable Individuals\n| |\n---| ---|\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/morvello/\">Morvello</a> | Current Ruler |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/arthur-maynard/\">Arthur Maynard</a> | Home |\n\nCape Renozo\nCape Renozo is a city located on the south-west shores of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Franzictini</a>. It is theocratically ruled by the leader of the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Paladin Order</a>.\nHistory\nHighlights\n\nParty cured <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/morvello/\">Morvello</a> of his lycanthropic affliction.\nKilled the <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Serpent of Aldas Island</a> near the harbors.",
 		"tags": [ "note"]
@@ -305,7 +305,7 @@
 
 {
 		"title": "Covin",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/cities/covin/",
 		"content": "[!infobox|right ]\nCovin\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | =this.reputation |\n| Population | Town |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nCovin\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -313,7 +313,7 @@
 
 {
 		"title": "Irridanel",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/cities/irridanel/",
 		"content": "[!infobox|right ]\nIrridanel\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/korbin-dopplet/\">Korbin Dopplet</a> |\n| Party Reputation | Friendly |\n| Population | City |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nIrridanel\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -321,7 +321,7 @@
 
 {
 		"title": "Giorna",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/giorna/",
 		"content": "[!infobox|right ]\nGiorna\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | Friendly |\n| Population | =this.population |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nGiorna\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -329,7 +329,7 @@
 
 {
 		"title": "Boab",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/hamlet/boab/",
 		"content": "[!infobox|right ]\nBoab\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | Isocracy |\n| Ruler | N/A |\n| Party Reputation | Friendly |\n| Population | Hamlet |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | Great Forest |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nBoab\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -337,7 +337,7 @@
 
 {
 		"title": "Nellis",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/hamlet/nellis/",
 		"content": "[!infobox|right ]\nNellis\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | =this.reputation |\n| Population | Hamlet |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nNellis\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -345,7 +345,7 @@
 
 {
 		"title": "Brass",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/metropolis/brass/",
 		"content": "[!infobox|right ]\nBrass\n\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | Monarchy |\n| Ruler | =this.ruler |\n| Party Reputation | Wanted |\n| Population | Metropolis |\nLocation Information\n||\n---|---|\n| Continent | Unknown |\n| Plane | Elemental Plane of Fire |\n| Region | Unknown |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nBrass\nHistory\nHighlights\n\nA fragment of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Godsbane</a> - the blade - was found in the lost city of <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Mem Nonnar</a> attached to a colossal sized lava creature, whom the party speculate caused the destruction of Mem Nonnar after gaining powers from the fragment of Godsbane.\nFreed a unicorn from Idrisir's tower, with the unicorn eventually watching of Boab as it's protector.\nKilled Idrisir in his tower before leaving to the Material Plane.",
 		"tags": [ "note"]
@@ -353,7 +353,7 @@
 
 {
 		"title": "Drovic",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/metropolis/drovic/",
 		"content": "[!infobox|right ]\nDrovic\n\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | Monarchy |\n| Ruler | <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lord Drovic IV</a> |\n| Party Reputation | Friendly |\n| Population | Metropolis |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | North-East |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nDrovic\nHistory\nShops\nElectric Emporiums\n\n[!cards|1]\n\n[!infobox|right ]\nDrovic\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | =this.owner |\n| Location | =this.location |\n| Type | Monarchy |\nNotable Items\n| |\n---| ---|\n| Ring of Evasion | Dust of Dryness |\n| Gem of Seeing | Universal Solvent |\n| Monk's Wraps | Chime of Opening |\n| Hat of Wizardry | Threaded Cane |\n| Scroll of Protection from Undead | Wand of Counterspell |\n\nDrovic\nHistory\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lothar</a>, a halfling male, sold the party some magical items before the King's Ball in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>. These included the Lantern of Revealing for <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/hayn-underfoot/\">Hayn</a>, Nolzur's Marvelous Pigments for <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/tarin-bolirahn/\">Tarin</a>, and a Ring of Protection for <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/freya-lorhalien/\">Freya</a>.\nHighlights\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/hayn-underfoot/\">Hayn</a> managed to get a discount after persuading <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lothar</a> to give him one &quot;for a brother (halfling)&quot;. Also acquired a free forgery kit from him.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/freya-lorhalien/\">Freya</a> managed to trick her way into paying half price for the Ring of Protection with a sob story.\n\nAlchey's Alchemicals\n\n[!cards|1]\n\n[!infobox|right ]\nDrovic\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | =this.owner |\n| Location | =this.location |\n| Type | Monarchy |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nDrovic\nHistory\nHighlights\n\nNeedlepoint\n\n[!cards|1]\n\n[!infobox|right ]\nDrovic\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | =this.owner |\n| Location | =this.location |\n| Type | Monarchy |\nNotable Items\n| |\n---| ---|\n| Cloak of Featherfall | Boots of Striding and Springing |\n| Cloak of Arachnida | |\n\nDrovic\nHistory\nThe party bought new clothes while preparing for the King's Ball in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>.\nHighlights\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Hayn</a> asked <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lohse</a> if she had any hair growing products.\n\nDewdrop Inn\n\n[!cards|1]\n\n[!infobox|right ]\nDrovic\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | =this.owner |\n| Location | =this.location |\n| Type | Monarchy |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nDrovic\nHistory\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/tarin-bolirahn/\">Tarin</a> payed for some rooms for the party the day before the King's Ball in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>.\nHighlights\n\nHighlights",
 		"tags": [ "note"]
@@ -361,7 +361,7 @@
 
 {
 		"title": "Rectoro",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/rectoro/",
 		"content": "[!infobox|right ]\nRectoro\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | =this.reputation |\n| Population | City |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nRectoro\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -369,7 +369,7 @@
 
 {
 		"title": "Swallow",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/swallow/",
 		"content": "[!infobox|right ]\nSwallow\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | =this.reputation |\n| Population | Town |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nSwallow\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -377,7 +377,7 @@
 
 {
 		"title": "Kelpon",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/villages/kelpon/",
 		"content": "[!infobox|right ]\nKelpon\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | =this.reputation |\n| Population | Village |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nKelpon\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -385,7 +385,7 @@
 
 {
 		"title": "Konoha",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/villages/konoha/",
 		"content": "[!infobox|right ]\nKonoha\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | =this.reputation |\n| Population | Village |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nKonoha\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -393,7 +393,7 @@
 
 {
 		"title": "Vindor",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/villages/vindor/",
 		"content": "[!infobox|right ]\nVindor\n\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | Monarchy |\n| Ruler | <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lord Pyxsis</a> |\n| Party Reputation | Friendly |\n| Population | Village |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | South-West |\nNotable Individuals\n| |\n---| ---|\n| <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lord Pyxsis</a> | Current Ruler |\n| <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Eran Underfoot</a> | Home |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/hayn-underfoot/\">Hayn Underfoot</a> | Home |\n\nVindor\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -401,7 +401,7 @@
 
 {
 		"title": "Whitwick",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/whitwick/",
 		"content": "[!infobox|right ]\nWhitwick\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | =this.reputation |\n| Population | Hamlet |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nWhitwick\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -409,7 +409,7 @@
 
 {
 		"title": "Xorna",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/locations/xorna/",
 		"content": "[!infobox|right ]\nXorna\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Alias(es) | =this.alias |\n| Type | =this.type |\n| Ruler | =this.ruler |\n| Party Reputation | =this.reputation |\n| Population | Village |\nLocation Information\n||\n---|---|\n| Continent | Franzictini |\n| Plane | Material Plane |\n| Region | =this.region |\nNotable Individuals\n| |\n---| ---|\n| - | - |\n\nXorna\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -417,7 +417,7 @@
 
 {
 		"title": "Published Main",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
 		"content": "Franzictini\nTable of Contents\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/#current-party\">Current Party</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/#npc-s\">NPC's</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/#quests\">Quests</a>\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/#locations\">Locations</a>\n\nCurrent Party\n\n[!cards|6 dataview]\n| Name | Race | Class |\n| -------------------------------------------------------------- | -------------- | ------------------- |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/armmyr-dopplet/\">Armmyr Dopplet</a> | Changeling | Ranger, Warlock |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/arthur-maynard/\">Arthur Maynard</a> | Human | Paladin |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/barnar-dankil/\">Barnar Dankil</a> | Dwarf | Cleric |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/freya-lorhalien/\">Freya Lorhalien</a> | Eladrin | Bard, Warlock |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/hayn-underfoot/\">Hayn Underfoot</a> | Halfling | Rogue, Warlock |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/tarin-bolirahn/\">Tarin Bolirahn</a> | Elf | Sorcerer |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/velania-firanova/\">Velania Firanova</a> | Half-Elf | Druid, Cleric |\n| <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/zipleze-rimmore/\">Zipleze Rimmore</a> | Gnome | Artificer |\n\nQuests\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Search for Godsbane</a>Search for the remaining fragments of Godsbane\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Investigate Cult Activity in Drovic</a>Investigate the cult that has been terrorizing the city\n\nLocations\n\nLocation\nType\nRegion\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/anaheim/\">Anaheim</a>\n-\nSouth-West\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/cape-renozo/\">Cape Renozo</a>\nTheocracy\nSouth-West\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/irridanel/\">Irridanel</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/covin/\">Covin</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/hamlet/boab/\">Boab</a>\nIsocracy\nGreat Forest\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/hamlet/nellis/\">Nellis</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/giorna/\">Giorna</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/brass/\">Brass</a>\nMonarchy\nUnknown\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>\nMonarchy\nNorth-East\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/villages/kelpon/\">Kelpon</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/villages/konoha/\">Konoha</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/villages/vindor/\">Vindor</a>\nMonarchy\nSouth-West\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/rectoro/\">Rectoro</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/swallow/\">Swallow</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/whitwick/\">Whitwick</a>\n-\n-\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/xorna/\">Xorna</a>\n-\n-",
 		"tags": [ "note","gardenEntry"]
@@ -425,7 +425,7 @@
 
 {
 		"title": "Drunken Rat",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/covin/drunken-rat/",
 		"content": "[!infobox|right ]\nDrunken Rat\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | =this.owner |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/covin/\">Covin</a> |\n| Type | Inn |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nDrunken Rat\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -433,7 +433,7 @@
 
 {
 		"title": "Georgia's General Goods",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/covin/georgia-s-general-goods/",
 		"content": "[!infobox|right ]\nGeorgia's General Goods\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Georgia</a> |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/covin/\">Covin</a> |\n| Type | General Goods |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nGeorgia's General Goods\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -441,7 +441,7 @@
 
 {
 		"title": "Orner Blacksmith",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/covin/orner-blacksmith/",
 		"content": "[!infobox|right ]\nOrner Blacksmith\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Orner</a> |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/cities/covin/\">Covin</a> |\n| Type | Blacksmith |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nOrner Blacksmith\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -449,7 +449,7 @@
 
 {
 		"title": "Alchey's Alchemicals",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/drovic/alchey-s-alchemicals/",
 		"content": "[!infobox|right ]\nAlchey's Alchemicals\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/shopkeepers/faith-alchey/\">Faith Alchey</a> |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a> |\n| Type | Alchemist |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nAlchey's Alchemicals\nHistory\nHighlights",
 		"tags": [ "note"]
@@ -457,7 +457,7 @@
 
 {
 		"title": "Dewdrop Inn",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/drovic/dewdrop-inn/",
 		"content": "[!infobox|right ]\nDewdrop Inn\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Eugene</a> |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a> |\n| Type | Inn |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nDewdrop Inn\nHistory\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/tarin-bolirahn/\">Tarin</a> payed for some rooms for the party the day before the King's Ball in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>.\nHighlights",
 		"tags": [ "note"]
@@ -465,7 +465,7 @@
 
 {
 		"title": "Electric Emporiums",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/drovic/electric-emporiums/",
 		"content": "[!infobox|right ]\nElectric Emporiums\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lothar</a> |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a> |\n| Type | Magical Items |\nNotable Items\n| |\n---| ---|\n| Ring of Evasion | Dust of Dryness |\n| Gem of Seeing | Universal Solvent |\n| Monk's Wraps | Chime of Opening |\n| Hat of Wizardry | Threaded Cane |\n| Scroll of Protection from Undead | Wand of Counterspell |\n\nElectric Emporiums\nHistory\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lothar</a>, a halfling male, sold the party some magical items before the King's Ball in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>. These included the Lantern of Revealing for <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/hayn-underfoot/\">Hayn</a>, Nolzur's Marvelous Pigments for <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/tarin-bolirahn/\">Tarin</a>, and a Ring of Protection for <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/freya-lorhalien/\">Freya</a>.\nHighlights\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/hayn-underfoot/\">Hayn</a> managed to get a discount after persuading <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lothar</a> to give him one &quot;for a brother (halfling)&quot;. Also acquired a free forgery kit from him.\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/freya-lorhalien/\">Freya</a> managed to trick her way into paying half price for the Ring of Protection with a sob story.",
 		"tags": [ "note"]
@@ -473,7 +473,7 @@
 
 {
 		"title": "Heart of Ironforge",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/drovic/heart-of-ironforge/",
 		"content": "[!infobox|right ]\nHeart of Ironforge\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Dunar</a> |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a> |\n| Type | Blacksmith |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nHeart of Ironforge\nHistory\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/zipleze-rimmore/\">Zipleze</a> bought some steel and an unfinished returning shield from <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Dunar</a>, the shopkeeper and owner of Heart of Ironforge. The party then proceeded to offload a bunch of old swords and weaponry to him.\nHighlights\n\n<a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/freya-lorhalien/\">Freya</a> asked <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/pc-s/zipleze-rimmore/\">Zipleze</a> for a dagger for undisclosed reasons, before selling it immediately to Dunar for a measly 5 gold.",
 		"tags": [ "note"]
@@ -481,7 +481,7 @@
 
 {
 		"title": "Needlepoint",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/drovic/needlepoint/",
 		"content": "[!infobox|right ]\nNeedlepoint\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lohse</a> |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a> |\n| Type | Tailor |\nNotable Items\n| |\n---| ---|\n| Cloak of Featherfall | Boots of Striding and Springing |\n| Cloak of Arachnida | |\n\nNeedlepoint\nHistory\nThe party bought new clothes while preparing for the King's Ball in <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/metropolis/drovic/\">Drovic</a>.\nHighlights\n\n<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Hayn</a> asked <a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">Lohse</a> if she had any hair growing products.",
 		"tags": [ "note"]
@@ -489,7 +489,7 @@
 
 {
 		"title": "Draenol's General Goods",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/giorna/draenol-s-general-goods/",
 		"content": "[!infobox|right ]\nDraenol's General Goods\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/shopkeepers/draenol/\">Draenol</a> |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/giorna/\">Giorna</a> |\n| Type | General Goods |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nDraenol's General Goods\nHistory\nShop is owned by a dwarven man, whom is oft aggressive in his speech, yet usually stocks higher quality products than his cheaper counterpart - <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/shops/giorna/mikael-s-general-goods/\">Mikael's General Goods</a>.\nHighlights",
 		"tags": [ "note"]
@@ -497,7 +497,7 @@
 
 {
 		"title": "Mikael's General Goods",
-		"date":"Tue Apr 30 2024 23:58:02 GMT+0000 (Coordinated Universal Time)",
+		"date":"Tue Apr 30 2024 23:58:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/shops/giorna/mikael-s-general-goods/",
 		"content": "[!infobox|right ]\nMikael's General Goods\n!<a class=\"internal-link is-unresolved\" href=\"/404\" target=\"\">cover h-small</a>\nGeneral Information\n| |\n---|---|\n| Owner | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/character-s/npc-s/shopkeepers/mikael/\">Mikael</a> |\n| Location | <a class=\"internal-link\" target=\"\" data-note-icon=\"\" href=\"/locations/giorna/\">Giorna</a> |\n| Type | General Goods |\nNotable Items\n| |\n---| ---|\n| - | - |\n\nMikael's General Goods\nHistory\nShop is owned by an older, energetic man. Sells goods for cheaper than Draenol's, often at the detriment of quality.\nHighlights",
 		"tags": [ "note"]
