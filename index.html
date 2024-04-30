@@ -1330,7 +1330,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-04-30T23:50:56.538Z';
+        const searchIndexDate = '2024-04-30T23:58:10.830Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -1342,9 +1342,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-04-30T23:50:56.538Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-04-30T23:58:10.830Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-04-30T23:50:56.538Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-04-30T23:58:10.830Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -1613,16 +1613,16 @@
 <div class="callout " data-callout="cards" data-callout-metadata="6 dataview"><div class="callout-title"><div class="callout-title-inner">Cards</div></div>
 <div class="callout-content">
 <p>
-|                     |                     |                     |<br>
-| ------------------- | ------------------- | ------------------- |<br>
-| <strong>Ranger, Warlock</strong> | <strong>Ranger, Warlock</strong> | <strong>Ranger, Warlock</strong> |<br>
-| <strong>Paladin</strong>         | <strong>Paladin</strong>         | <strong>Paladin</strong>         |<br>
-| <strong>Cleric</strong>          | <strong>Cleric</strong>          | <strong>Cleric</strong>          |<br>
-| <strong>Bard, Warlock</strong>   | <strong>Bard, Warlock</strong>   | <strong>Bard, Warlock</strong>   |<br>
-| <strong>Rogue, Warlock</strong>  | <strong>Rogue, Warlock</strong>  | <strong>Rogue, Warlock</strong>  |<br>
-| <strong>Sorcerer</strong>        | <strong>Sorcerer</strong>        | <strong>Sorcerer</strong>        |<br>
-| <strong>Druid, Cleric</strong>   | <strong>Druid, Cleric</strong>   | <strong>Druid, Cleric</strong>   |<br>
-| <strong>Artificer</strong>       | <strong>Artificer</strong>       | <strong>Artificer</strong>       |</p>
+| Name                                                           | Race           | Class               |<br>
+| -------------------------------------------------------------- | -------------- | ------------------- |<br>
+| <strong><a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/armmyr-dopplet/">Armmyr Dopplet</a></strong>     | <strong>Changeling</strong> | <strong>Ranger, Warlock</strong> |<br>
+| <strong><a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/arthur-maynard/">Arthur Maynard</a></strong>     | <strong>Human</strong>      | <strong>Paladin</strong>         |<br>
+| <strong><a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/barnar-dankil/">Barnar Dankil</a></strong>       | <strong>Dwarf</strong>      | <strong>Cleric</strong>          |<br>
+| <strong><a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/freya-lorhalien/">Freya Lorhalien</a></strong>   | <strong>Eladrin</strong>    | <strong>Bard, Warlock</strong>   |<br>
+| <strong><a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/hayn-underfoot/">Hayn Underfoot</a></strong>     | <strong>Halfling</strong>   | <strong>Rogue, Warlock</strong>  |<br>
+| <strong><a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/tarin-bolirahn/">Tarin Bolirahn</a></strong>     | <strong>Elf</strong>        | <strong>Sorcerer</strong>        |<br>
+| <strong><a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/velania-firanova/">Velania Firanova</a></strong> | <strong>Half-Elf</strong>   | <strong>Druid, Cleric</strong>   |<br>
+| <strong><a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/zipleze-rimmore/">Zipleze Rimmore</a></strong>   | <strong>Gnome</strong>      | <strong>Artificer</strong>       |</p>
 </div></div>
 <p class="block-language-dataview"></p>
 <h2 id="quests" tabindex="-1">Quests</h2>
