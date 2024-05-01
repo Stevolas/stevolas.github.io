@@ -18,13 +18,13 @@
 | Name                                                       | Race       | Class                                    |
 | ---------------------------------------------------------- | ---------- | ---------------------------------------- |
 | [[Character's/PC's/Armmyr Dopplet\|Armmyr Dopplet]]     | Changeling | <ul><li>Ranger</li><li>Warlock</li></ul> |
-| [[Character's/PC's/Arthur Maynard\|Arthur Maynard]]     | Human      | <ul><li>Paladin</li></ul>                |
 | [[Character's/PC's/Barnar Dankil\|Barnar Dankil]]       | Dwarf      | <ul><li>Cleric</li></ul>                 |
 | [[Character's/PC's/Freya Lorhalien\|Freya Lorhalien]]   | Eladrin    | <ul><li>Bard</li><li>Warlock</li></ul>   |
+| [[Character's/PC's/Arthur Maynard\|Arthur Maynard]]     | Human      | <ul><li>Paladin</li></ul>                |
 | [[Character's/PC's/Hayn Underfoot\|Hayn Underfoot]]     | Halfling   | <ul><li>Rogue</li><li>Warlock</li></ul>  |
 | [[Character's/PC's/Tarin Bolirahn\|Tarin Bolirahn]]     | Elf        | <ul><li>Sorcerer</li></ul>               |
-| [[Character's/PC's/Velania Firanova\|Velania Firanova]] | Half-Elf   | <ul><li>Druid</li><li>Cleric</li></ul>   |
 | [[Character's/PC's/Zipleze Rimmore\|Zipleze Rimmore]]   | Gnome      | <ul><li>Artificer</li></ul>              |
+| [[Character's/PC's/Velania Firanova\|Velania Firanova]] | Half-Elf   | <ul><li>Druid</li><li>Cleric</li></ul>   |
 
 { .block-language-dataview}
 
