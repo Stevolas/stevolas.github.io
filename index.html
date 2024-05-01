@@ -1330,7 +1330,7 @@
     async function init() {
         //init offline search index
 
-        const searchIndexDate = '2024-05-01T00:03:59.632Z';
+        const searchIndexDate = '2024-05-01T00:06:52.226Z';
         let shouldFetch = true;
         if(localStorage.getItem("searchIndex")) {
             let {date, docs}= JSON.parse(localStorage.getItem('searchIndex'));
@@ -1342,9 +1342,9 @@
             }        
         }
         if(shouldFetch){
-            let docs = await(await fetch('/searchIndex.json?v=2024-05-01T00:03:59.632Z')).json();
+            let docs = await(await fetch('/searchIndex.json?v=2024-05-01T00:06:52.226Z')).json();
             let index = createIndex(docs);
-            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-05-01T00:03:59.632Z', docs}));
+            localStorage.setItem("searchIndex", JSON.stringify({date: '2024-05-01T00:06:52.226Z', docs}));
             window.docs = docs
             window.index = index;
         }
@@ -1616,13 +1616,13 @@
 | Name                                                       | Race       | Class                                    |<br>
 | ---------------------------------------------------------- | ---------- | ---------------------------------------- |<br>
 | <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/armmyr-dopplet/">Armmyr Dopplet</a>     | Changeling | <ul><li>Ranger</li><li>Warlock</li></ul> |<br>
-| <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/arthur-maynard/">Arthur Maynard</a>     | Human      | <ul><li>Paladin</li></ul>                |<br>
 | <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/barnar-dankil/">Barnar Dankil</a>       | Dwarf      | <ul><li>Cleric</li></ul>                 |<br>
 | <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/freya-lorhalien/">Freya Lorhalien</a>   | Eladrin    | <ul><li>Bard</li><li>Warlock</li></ul>   |<br>
+| <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/arthur-maynard/">Arthur Maynard</a>     | Human      | <ul><li>Paladin</li></ul>                |<br>
 | <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/hayn-underfoot/">Hayn Underfoot</a>     | Halfling   | <ul><li>Rogue</li><li>Warlock</li></ul>  |<br>
 | <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/tarin-bolirahn/">Tarin Bolirahn</a>     | Elf        | <ul><li>Sorcerer</li></ul>               |<br>
-| <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/velania-firanova/">Velania Firanova</a> | Half-Elf   | <ul><li>Druid</li><li>Cleric</li></ul>   |<br>
-| <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/zipleze-rimmore/">Zipleze Rimmore</a>   | Gnome      | <ul><li>Artificer</li></ul>              |</p>
+| <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/zipleze-rimmore/">Zipleze Rimmore</a>   | Gnome      | <ul><li>Artificer</li></ul>              |<br>
+| <a class="internal-link" target="" data-note-icon="" href="/character-s/pc-s/velania-firanova/">Velania Firanova</a> | Half-Elf   | <ul><li>Druid</li><li>Cleric</li></ul>   |</p>
 </div></div>
 <p class="block-language-dataview"></p>
 <h2 id="quests" tabindex="-1">Quests</h2>
