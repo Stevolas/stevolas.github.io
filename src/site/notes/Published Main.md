@@ -14,7 +14,6 @@
 
 ## Current Party
 
->[!cards|6 dataview] 
 | Name                                                       | Race       | Class                                    |
 | ---------------------------------------------------------- | ---------- | ---------------------------------------- |
 | [[Character's/PC's/Armmyr Dopplet\|Armmyr Dopplet]]     | Changeling | <ul><li>Ranger</li><li>Warlock</li></ul> |
